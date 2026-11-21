@@ -160,7 +160,7 @@ export const portfolioData = {
         "Interface Analysis Space unifiée sous Next.js connectée à FastAPI et PostgreSQL/Supabase"
       ],
       technologies: ["FastAPI (Python)", "Next.js 16 (React 19)", "Tailwind CSS v4", "Supabase / PostgreSQL", "VirusTotal API", "URLhaus API"],
-      github: "https://github.com/moumbagnanchareibrahimsoudess-design",
+      github: "https://github.com/moumbagnanchareibrahimsoudess-design/securelink",
       demo: "https://securelink-91z9j96rh-secure-link.vercel.app/analyse",
       type: "Plateforme Cybersécurité SaaS",
       securityFeatures: "Moteurs heuristiques, détection homoglyphes/lookalike, scoring pondéré multi-critères, explications transparentes sans faux verdicts"
