@@ -19,7 +19,7 @@ export const portfolioData = {
     whatsapp: "https://wa.me/237689981851",
     university: "Université de Yaoundé 1",
     email: "ibrahimsoudess7@gmail.com",
-    github: "https://github.com/moumbagnanchareibrahimsoudess-design",
+    github: "https://github.com/IBRAHIM-SOUDESS",
     credly: "https://www.credly.com/users/moumbagna-nchare-ibrahim-soudess/badges",
     linkedin: "https://www.linkedin.com/in/moumbagna-nchare-ibrahim-soudess-85072a390",
     fiverr: "https://fr.fiverr.com/ibrahimsoudes1",
@@ -160,7 +160,7 @@ export const portfolioData = {
         "Interface Analysis Space unifiée sous Next.js connectée à FastAPI et PostgreSQL/Supabase"
       ],
       technologies: ["FastAPI (Python)", "Next.js 16 (React 19)", "Tailwind CSS v4", "Supabase / PostgreSQL", "VirusTotal API", "URLhaus API"],
-      github: "https://github.com/moumbagnanchareibrahimsoudess-design/securelink",
+      github: "https://github.com/IBRAHIM-SOUDESS/securelink",
       demo: "https://securelink-91z9j96rh-secure-link.vercel.app/analyse",
       type: "Plateforme Cybersécurité SaaS",
       securityFeatures: "Moteurs heuristiques, détection homoglyphes/lookalike, scoring pondéré multi-critères, explications transparentes sans faux verdicts"
@@ -186,7 +186,7 @@ export const portfolioData = {
         "Gestionnaire de campagnes publicitaires internes"
       ],
       technologies: ["PHP 8", "MySQL", "JavaScript Vanilla", "CSS3 / Modern UI", "Sessions sécurisées"],
-      github: "https://github.com/moumbagnanchareibrahimsoudess-design/tekrin",
+      github: "https://github.com/IBRAHIM-SOUDESS/tekrin",
       demo: "#",
       type: "Application Web Complète",
       securityFeatures: "Authentification robuste, assainissement des entrées, contrôle des rôles (utilisateurs / techniciens)"
@@ -212,7 +212,7 @@ export const portfolioData = {
         "Traçabilité totale des interventions via table de logs d'audit"
       ],
       technologies: ["PHP (MySQLi)", "MySQL / MariaDB", "Tailwind CSS", "Chart.js", "html2pdf.js"],
-      github: "https://github.com/moumbagnanchareibrahimsoudess-design/gestion-demande-interne",
+      github: "https://github.com/IBRAHIM-SOUDESS/gestion-demande-interne",
       demo: "#",
       type: "Outil Métier & Cybersécurité",
       securityFeatures: "Jetons CSRF, requêtes préparées anti-SQLi, sanitization htmlspecialchars anti-XSS, logs d'audit immuables"
@@ -238,7 +238,7 @@ export const portfolioData = {
         "Connexion PDO sécurisée sans émulation de requêtes préparées"
       ],
       technologies: ["PHP (PDO)", "MySQL", "QR Code Engine", "CSS Print Media", "JavaScript"],
-      github: "https://github.com/moumbagnanchareibrahimsoudess-design/livra-cam",
+      github: "https://github.com/IBRAHIM-SOUDESS/livra-cam",
       demo: "#",
       type: "Système Logistique",
       securityFeatures: "PDO natif sans émulation (protection stricte contre les injections SQL), masquage des erreurs sensibles"
